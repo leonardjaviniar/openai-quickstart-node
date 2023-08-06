@@ -26,3 +26,8 @@ Translate all values in the JSON below in Filipino
     "buy": "Buy",
     "clickSched": "Click Schedule Now to create an appointement with a property agent."
 }
+
+{\"home\":\"Home\",\"welcome\":\"Welcome to RealtyIndex. The number 1 Home, Realty and Property search engine in the world! We have over 10,000 properties in our listing.\",\"singin\":\"Sign-in\",\"admin\":\"Admin\",\"properties\":\"Properties\",\"buy\":\"Buy\",\"clickSched\":\"Click Schedule Now to create an appointement with a property agent.\"}
+
+
+// https://api.openai.com/v1/chat/completions

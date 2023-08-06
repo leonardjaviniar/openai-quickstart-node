@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7ka5XdioiH9uwh6ACF6BHpbR1kgjY",
+    "object": "chat.completion",
+    "created": 1691336167,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"home\": \"Tahanan\",\n  \"welcome\": \"Maligayang pagdating sa RealtyIndex. Ang numero 1 na Home, Realty at Property search engine sa buong mundo! Mayroon kaming higit sa 10,000 na mga property sa aming listahan.\",\n  \"singin\": \"Mag-sign in\",\n  \"admin\": \"Pamahalaan\",\n  \"properties\": \"Mga Ari-arian\",\n  \"buy\": \"Bumili\",\n  \"clickSched\": \"Mag-click ng Schedule Now upang lumikha ng appointment kasama ang isang property agent.\"\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 105,
+      "completion_tokens": 132,
+      "total_tokens": 237
+    }
+  }
