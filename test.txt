@@ -1,0 +1,25 @@
+Complete the XML below while using hello, world, foo, bar, name, title as d attribute values
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<myconfs>
+  <conf name="Test">
+    <myfield d="Foo" f="bar">
+    <myfield d="My Hello" f="hello">
+    <myfield d="New Title" f="title">
+  </conf>
+</myconfs>
+
+
+Translate all values in the JSON below in Filipino
+
+{
+    "home": "Home",
+    "welcome": "Welcome to RealtyIndex. The number 1 Home, Realty and Property search engine in the world! We have over 10,000 properties in our listing.",
+    "singin": "Sign-in",
+    "admin": "Admin",
+    "properties": "Properties",
+    "buy": "Buy",
+    "clickSched": "Click Schedule Now to create an appointement with a property agent."
+}
